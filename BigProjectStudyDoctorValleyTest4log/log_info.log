@@ -1,0 +1,87 @@
+2023-04-27 10:28:55.723 [restartedMain] INFO  com.preBook.ServiceHospApplication - Starting ServiceHospApplication using Java 11.0.17 on quiettt with PID 21664 (D:\BigProjectStudy\DoctorValley\Test4\preBookRegister\service\service_hosp\target\classes started by 33559 in D:\BigProjectStudy\DoctorValley\Test4\preBookRegister)
+2023-04-27 10:28:55.724 [restartedMain] INFO  com.preBook.ServiceHospApplication - The following 1 profile is active: "dev"
+2023-04-27 10:28:55.754 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-27 10:28:55.754 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-27 10:28:56.847 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3536 (http)
+2023-04-27 10:28:56.854 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3536"]
+2023-04-27 10:28:56.854 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-27 10:28:56.854 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-04-27 10:28:57.015 [restartedMain] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-04-27 10:28:57.022 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-27 10:28:57.023 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1267 ms
+2023-04-27 10:28:57.859 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-04-27 10:28:57.954 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-27 10:28:58.065 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3536"]
+2023-04-27 10:28:58.085 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 3536 (http) with context path ''
+2023-04-27 10:28:58.086 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2023-04-27 10:28:58.095 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 2 custom documentation plugin(s)
+2023-04-27 10:28:58.116 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2023-04-27 10:28:58.203 [restartedMain] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator - Generating unique operation named: lockHospitalSetUsingPUT_1
+2023-04-27 10:28:58.229 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2023-04-27 10:28:58.239 [restartedMain] INFO  com.preBook.ServiceHospApplication - Started ServiceHospApplication in 2.817 seconds (JVM running for 3.711)
+2023-04-27 10:30:44.517 [http-nio-3536-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-27 10:30:44.517 [http-nio-3536-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-27 10:30:44.519 [http-nio-3536-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-04-27 10:31:16.127 [restartedMain] INFO  com.preBook.ServiceHospApplication - Starting ServiceHospApplication using Java 11.0.17 on quiettt with PID 25456 (D:\BigProjectStudy\DoctorValley\Test4\preBookRegister\service\service_hosp\target\classes started by 33559 in D:\BigProjectStudy\DoctorValley\Test4\preBookRegister)
+2023-04-27 10:31:16.129 [restartedMain] INFO  com.preBook.ServiceHospApplication - The following 1 profile is active: "dev"
+2023-04-27 10:31:16.159 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-27 10:31:16.159 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-27 10:31:17.198 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3536 (http)
+2023-04-27 10:31:17.204 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3536"]
+2023-04-27 10:31:17.205 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-27 10:31:17.205 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-04-27 10:31:17.355 [restartedMain] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-04-27 10:31:17.361 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-27 10:31:17.361 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1201 ms
+2023-04-27 10:31:18.185 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-04-27 10:31:18.279 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-27 10:31:18.404 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3536"]
+2023-04-27 10:31:18.426 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 3536 (http) with context path ''
+2023-04-27 10:31:18.427 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2023-04-27 10:31:18.440 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 2 custom documentation plugin(s)
+2023-04-27 10:31:18.462 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2023-04-27 10:31:18.588 [restartedMain] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator - Generating unique operation named: lockHospitalSetUsingPUT_1
+2023-04-27 10:31:18.611 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2023-04-27 10:31:18.624 [restartedMain] INFO  com.preBook.ServiceHospApplication - Started ServiceHospApplication in 2.82 seconds (JVM running for 3.586)
+2023-04-27 10:32:10.143 [restartedMain] INFO  com.preBook.ServiceHospApplication - Starting ServiceHospApplication using Java 11.0.17 on quiettt with PID 15220 (D:\BigProjectStudy\DoctorValley\Test4\preBookRegister\service\service_hosp\target\classes started by 33559 in D:\BigProjectStudy\DoctorValley\Test4\preBookRegister)
+2023-04-27 10:32:10.144 [restartedMain] INFO  com.preBook.ServiceHospApplication - The following 1 profile is active: "dev"
+2023-04-27 10:32:10.174 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-27 10:32:10.174 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-27 10:32:11.212 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3536 (http)
+2023-04-27 10:32:11.219 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3536"]
+2023-04-27 10:32:11.220 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-27 10:32:11.220 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-04-27 10:32:11.377 [restartedMain] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-04-27 10:32:11.383 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-27 10:32:11.384 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1209 ms
+2023-04-27 10:32:12.245 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-04-27 10:32:12.346 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-27 10:32:12.476 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3536"]
+2023-04-27 10:32:12.497 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 3536 (http) with context path ''
+2023-04-27 10:32:12.498 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2023-04-27 10:32:12.508 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 2 custom documentation plugin(s)
+2023-04-27 10:32:12.531 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2023-04-27 10:32:12.625 [restartedMain] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator - Generating unique operation named: lockHospitalSetUsingPUT_1
+2023-04-27 10:32:12.651 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2023-04-27 10:32:12.662 [restartedMain] INFO  com.preBook.ServiceHospApplication - Started ServiceHospApplication in 2.84 seconds (JVM running for 3.636)
+2023-04-27 10:32:30.453 [restartedMain] INFO  com.preBook.ServiceHospApplication - Starting ServiceHospApplication using Java 11.0.17 on quiettt with PID 13552 (D:\BigProjectStudy\DoctorValley\Test4\preBookRegister\service\service_hosp\target\classes started by 33559 in D:\BigProjectStudy\DoctorValley\Test4\preBookRegister)
+2023-04-27 10:32:30.455 [restartedMain] INFO  com.preBook.ServiceHospApplication - The following 1 profile is active: "dev"
+2023-04-27 10:32:30.484 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-27 10:32:30.485 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-27 10:32:31.537 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3536 (http)
+2023-04-27 10:32:31.545 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3536"]
+2023-04-27 10:32:31.545 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-27 10:32:31.546 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-04-27 10:32:31.704 [restartedMain] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-04-27 10:32:31.712 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-27 10:32:31.712 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1227 ms
+2023-04-27 10:32:32.577 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-04-27 10:32:32.676 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-27 10:32:32.785 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3536"]
+2023-04-27 10:32:32.804 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 3536 (http) with context path ''
+2023-04-27 10:32:32.805 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2023-04-27 10:32:32.815 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 2 custom documentation plugin(s)
+2023-04-27 10:32:32.834 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2023-04-27 10:32:32.920 [restartedMain] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator - Generating unique operation named: lockHospitalSetUsingPUT_1
+2023-04-27 10:32:32.941 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2023-04-27 10:32:32.951 [restartedMain] INFO  com.preBook.ServiceHospApplication - Started ServiceHospApplication in 2.821 seconds (JVM running for 3.562)

@@ -1,4 +1,4 @@
-package com.preBook;
+package com.preBook.result;
 
 import lombok.Getter;
 

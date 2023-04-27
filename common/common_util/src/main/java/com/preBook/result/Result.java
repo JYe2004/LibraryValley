@@ -1,4 +1,4 @@
-package com.preBook;
+package com.preBook.result;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
