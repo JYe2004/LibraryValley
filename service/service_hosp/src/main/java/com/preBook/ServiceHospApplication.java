@@ -1,4 +1,4 @@
-package com.atguigu.yygh;
+package com.preBook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,6 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ServiceHospApplication {
     public static void main(String[] args) {
-        SpringApplication.run(ServiceHospApplication.class,args);
+        SpringApplication.run(ServiceHospApplication.class, args);
     }
 }

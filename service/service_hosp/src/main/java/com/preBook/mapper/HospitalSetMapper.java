@@ -1,8 +1,8 @@
-package com.mapper;
+package com.preBook.mapper;
 
 import com.atguigu.yygh.model.hosp.HospitalSet;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
-public interface HospitalSetMapper extends BaseMapper<HospitalSet> {
 
+public interface HospitalSetMapper extends BaseMapper<HospitalSet> {
 }

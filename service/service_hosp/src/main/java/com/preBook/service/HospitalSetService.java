@@ -1,4 +1,4 @@
-package com.service;
+package com.preBook.service;
 
 import com.atguigu.yygh.model.hosp.HospitalSet;
 import com.baomidou.mybatisplus.extension.service.IService;

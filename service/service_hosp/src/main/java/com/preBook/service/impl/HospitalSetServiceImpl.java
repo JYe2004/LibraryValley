@@ -1,9 +1,9 @@
-package com.service.impl;
+package com.preBook.service.impl;
 
 import com.atguigu.yygh.model.hosp.HospitalSet;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.mapper.HospitalSetMapper;
-import com.service.HospitalSetService;
+import com.preBook.mapper.HospitalSetMapper;
+import com.preBook.service.HospitalSetService;
 import org.springframework.stereotype.Service;
 
 @Service

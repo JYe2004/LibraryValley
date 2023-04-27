@@ -49,5 +49,6 @@ public class HospitalSet extends BaseEntity {
 	@TableField("status")
 	private Integer status;
 
+
 }
 
