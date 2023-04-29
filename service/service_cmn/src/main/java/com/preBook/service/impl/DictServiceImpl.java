@@ -6,6 +6,7 @@ import com.atguigu.yygh.model.hosp.HospitalSet;
 import com.atguigu.yygh.vo.cmn.DictEeVo;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import com.preBook.listenner.DictListener;
 import com.preBook.mapper.DictMapper;
 import com.preBook.mapper.HospitalSetMapper;
 import com.preBook.service.DictService;
@@ -53,13 +54,11 @@ public class DictServiceImpl extends ServiceImpl<DictMapper, Dict> implements Di
 
     @Override
     public void importDictData(MultipartFile file) {
-        /*try {
+        try {
             EasyExcel.read(file.getInputStream(), DictEeVo.class,new DictListener(baseMapper)).sheet().doRead();
         } catch (IOException e) {
             e.printStackTrace();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }*/
+        }
     }
 
     @Override
